@@ -6,6 +6,8 @@
 
 [**git 获取token的办法**](https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
+[**git查看/删除远程仓库**](https://www.csdn.net/tags/MtTaQgwsNzMyODgtYmxvZwO0O0OO0O0O.html)
+
 - [X] github创建分支与请求合并p
 > 可以在仓库某个版本的基础上，进行修改。每个文件修改后进行一次提交。最后通过pullrequest进行提交，管>理者审核并合并分支。
 > 注意两点:
