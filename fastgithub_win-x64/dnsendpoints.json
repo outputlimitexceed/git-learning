@@ -1,0 +1,122 @@
+[
+  {
+    "host": "gapis.geekzu.org",
+    "port": 443
+  },
+  {
+    "host": "camo.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "vscodeexperiments.azureedge.net",
+    "port": 443
+  },
+  {
+    "host": "edgeassetservice.azureedge.net",
+    "port": 443
+  },
+  {
+    "host": "g.live.com",
+    "port": 443
+  },
+  {
+    "host": "nexusrules.officeapps.live.com",
+    "port": 443
+  },
+  {
+    "host": "update.code.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "outlook.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  },
+  {
+    "host": "login.live.com",
+    "port": 443
+  },
+  {
+    "host": "presence.teams.live.com",
+    "port": 443
+  },
+  {
+    "host": "alive.github.com",
+    "port": 443
+  },
+  {
+    "host": "msgapi.teams.live.com",
+    "port": 443
+  },
+  {
+    "host": "raw.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "teams.live.com",
+    "port": 443
+  },
+  {
+    "host": "dc.services.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "vsls-prod-ins-asse-private-relay.servicebus.windows.net",
+    "port": 443
+  },
+  {
+    "host": "spotlights-feed.github.com",
+    "port": 443
+  },
+  {
+    "host": "online.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "marketplace.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "docs.github.com",
+    "port": 443
+  },
+  {
+    "host": "vscode.cdn.azure.cn",
+    "port": 443
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "fonts.geekzu.org",
+    "port": 443
+  },
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "marketplace-screenshots.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "events-feed.github.com",
+    "port": 443
+  },
+  {
+    "host": "avatars2.githubusercontent.com",
+    "port": 443
+  }
+]

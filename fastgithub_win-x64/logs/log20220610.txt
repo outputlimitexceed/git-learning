@@ -1,0 +1,2243 @@
+2022-06-10T13:59:47.7733913+08:00 [INF]
+FastGithub.HttpServer
+已监听https://localhost:443，https反向代理服务启动完成
+
+2022-06-10T13:59:47.9028173+08:00 [INF]
+FastGithub.HttpServer
+已监听http://localhost:80，http反向代理服务启动完成
+
+2022-06-10T13:59:47.9054861+08:00 [INF]
+FastGithub.HttpServer
+已监听ssh://localhost:22，github的ssh反向代理服务启动完成
+
+2022-06-10T13:59:47.9070593+08:00 [INF]
+FastGithub.HttpServer
+已监听git://localhost:9418，github的git反向代理服务启动完成
+
+2022-06-10T13:59:48.0012074+08:00 [INF]
+FastGithub.AppHostedService
+FastGithub启动完成，当前版本为v2.1.4，访问 https://github.com/dotnetcore/fastgithub 关注新版本
+
+2022-06-10T14:00:20.3577919+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:00:20.3664878+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:00:24.8329183+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 502 in 3442.0491 ms
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+
+
+2022-06-10T14:00:35.5657771+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 502 in 5795.8096 ms
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+
+
+2022-06-10T14:00:39.8705794+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-06-10T14:00:40.5379888+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.88.34]
+
+2022-06-10T14:00:41.0683712+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-06-10T14:00:41.5656646+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+marketplace.visualstudio.com:443->[13.107.42.18]
+
+2022-06-10T14:00:42.2296775+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+update.code.visualstudio.com:443->[51.144.164.215]
+
+2022-06-10T14:00:42.8741091+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+online.visualstudio.com:443->[40.68.78.177]
+
+2022-06-10T14:00:43.5213954+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+presence.teams.live.com:443->[40.68.77.210]
+
+2022-06-10T14:00:43.6480235+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:00:43.6495939+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:00:43.6508879+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:00:43.6534369+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:00:43.6718841+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:00:43.6731895+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:00:43.6744801+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:00:43.6755215+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:00:43.8233908+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 200 in 8253.5788 ms
+
+2022-06-10T14:00:44.1387086+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.121.5]
+
+2022-06-10T14:00:44.4937009+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 200 in 859.9035 ms
+
+2022-06-10T14:00:44.5932929+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+spotlights-feed.github.com:443->[185.199.108.153, 185.199.109.153, 185.199.111.153]
+
+2022-06-10T14:00:44.7354103+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 146.4229 ms
+
+2022-06-10T14:00:44.7583574+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_behaviors_include-fr-a5a4c7-f1ecb2bafb1d.js responded 200 in 220.8543 ms
+
+2022-06-10T14:00:44.7598742+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/element-registry-cb295a75c6a7.js responded 200 in 230.2035 ms
+
+2022-06-10T14:00:44.7602578+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/runtime-cfa620ee6669.js responded 200 in 603.5632 ms
+
+2022-06-10T14:00:44.7611118+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-0c3331-ea52474d5bef.js responded 200 in 222.1156 ms
+
+2022-06-10T14:00:44.7616518+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-52e104-0c4f462bf4d2.js responded 200 in 233.7638 ms
+
+2022-06-10T14:00:44.7630502+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/dashboard-159a3f426369.js responded 200 in 223.1451 ms
+
+2022-06-10T14:00:44.7637759+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_catalyst_lib-6e1996-3878570f122b.js responded 200 in 220.0644 ms
+
+2022-06-10T14:00:44.7673492+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-7e29fd-feacdfa2af93.js responded 200 in 222.7433 ms
+
+2022-06-10T14:00:44.7675813+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/command-palette-1ebe12693ca3.js responded 200 in 219.5977 ms
+
+2022-06-10T14:00:44.7690994+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/environment-9ed442553588.js responded 200 in 613.0556 ms
+
+2022-06-10T14:00:44.7708264+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/github-19cb3dd4ad49.css responded 200 in 615.6583 ms
+
+2022-06-10T14:00:44.8046151+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/behaviors-196436edacea.js responded 200 in 265.4808 ms
+
+2022-06-10T14:00:44.8475301+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/60440484 responded 304 in 251.9202 ms
+
+2022-06-10T14:00:44.9072412+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/chunk-app_components_command_palette_command-palette-page-element_ts-c0b67053b482.js responded 200 in 35.8787 ms
+
+2022-06-10T14:00:44.9074920+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/chunk-app_components_command_palette_command-palette-page-stack-element_ts-7d6770df47b4.js responded 200 in 36.059 ms
+
+2022-06-10T14:00:45.0236141+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/t/3627587 responded 304 in 418.1201 ms
+
+2022-06-10T14:00:45.0717965+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:00:45.0736701+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:00:45.1173726+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/60440484 responded 304 in 503.4998 ms
+
+2022-06-10T14:00:45.1238880+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+collector.github.com->127.0.0.1
+
+2022-06-10T14:00:45.1282849+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+collector.github.com->127.0.0.1
+
+2022-06-10T14:00:45.1404991+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+api.github.com->127.0.0.1
+
+2022-06-10T14:00:45.1425241+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+api.github.com->127.0.0.1
+
+2022-06-10T14:00:45.2367404+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25]
+
+2022-06-10T14:00:45.2610295+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 358.4558 ms
+
+2022-06-10T14:00:45.3295382+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 429.3596 ms
+
+2022-06-10T14:00:45.4118340+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 58.5942 ms
+
+2022-06-10T14:00:45.5998054+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 693.6922 ms
+
+2022-06-10T14:00:45.8434412+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard-feed responded 200 in 935.7481 ms
+
+2022-06-10T14:00:45.8658893+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+vscodeexperiments.azureedge.net:443->[152.199.19.161]
+
+2022-06-10T14:00:45.9431435+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 33.6143 ms
+
+2022-06-10T14:00:45.9540750+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 38.8855 ms
+
+2022-06-10T14:00:45.9550300+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/11206497 responded 304 in 34.4179 ms
+
+2022-06-10T14:00:46.0857517+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/changelog responded 200 in 1054.8311 ms
+
+2022-06-10T14:00:46.1294716+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 793.8762 ms
+
+2022-06-10T14:00:46.1435542+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 330.6191 ms
+
+2022-06-10T14:00:46.1465826+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 1190.0137 ms
+
+2022-06-10T14:00:46.1668411+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 893.5809 ms
+
+2022-06-10T14:00:46.3160587+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard-feed responded 200 in 463.8382 ms
+
+2022-06-10T14:00:46.3303831+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+docs.github.com:443->[185.199.110.154, 185.199.108.154, 185.199.111.154]
+
+2022-06-10T14:00:46.4215522+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/changelog responded 200 in 333.0574 ms
+
+2022-06-10T14:00:46.5352367+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 383.5502 ms
+
+2022-06-10T14:00:46.5604631+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 388.3356 ms
+
+2022-06-10T14:00:46.9001571+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1088.4082 ms
+
+2022-06-10T14:00:46.9041226+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1093.0463 ms
+
+2022-06-10T14:00:46.9523450+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 388.7296 ms
+
+2022-06-10T14:00:46.9633800+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1153.6492 ms
+
+2022-06-10T14:00:46.9868931+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.69.106.208]
+
+2022-06-10T14:00:47.0939125+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1281.5751 ms
+
+2022-06-10T14:00:47.1223647+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/for_you_feed responded 200 in 2211.6879 ms
+
+2022-06-10T14:00:47.2343557+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/20365169 responded 200 in 35.3833 ms
+
+2022-06-10T14:00:47.2527209+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/10503161 responded 304 in 38.1538 ms
+
+2022-06-10T14:00:47.2777944+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/6755973 responded 304 in 33.1381 ms
+
+2022-06-10T14:00:47.2968361+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/2883231 responded 304 in 36.2117 ms
+
+2022-06-10T14:00:47.3018889+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1454.6141 ms
+
+2022-06-10T14:00:47.3198106+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/42528522 responded 304 in 34.754 ms
+
+2022-06-10T14:00:47.3408162+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/41346473 responded 304 in 35.725 ms
+
+2022-06-10T14:00:47.3908198+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/17216317 responded 304 in 38.5842 ms
+
+2022-06-10T14:00:47.4039820+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+events-feed.github.com:443->[185.199.108.153, 185.199.109.153, 185.199.111.153]
+
+2022-06-10T14:00:47.4348978+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/25875263 responded 304 in 36.4374 ms
+
+2022-06-10T14:00:47.4519887+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1601.1784 ms
+
+2022-06-10T14:00:47.4838080+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/4027957 responded 304 in 38.629 ms
+
+2022-06-10T14:00:47.5967640+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 346.1667 ms
+
+2022-06-10T14:00:47.6336451+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[140.82.121.4]
+
+2022-06-10T14:00:47.6548431+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/50206778 responded 304 in 34.8708 ms
+
+2022-06-10T14:00:47.7147612+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/19404084 responded 304 in 33.5123 ms
+
+2022-06-10T14:00:47.7557644+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/1429315 responded 304 in 32.2031 ms
+
+2022-06-10T14:00:47.7707867+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 554.9651 ms
+
+2022-06-10T14:00:47.7977932+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/57373 responded 304 in 305.0527 ms
+
+2022-06-10T14:00:47.8098117+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/13383310 responded 304 in 33.0773 ms
+
+2022-06-10T14:00:47.8577056+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/8373027 responded 304 in 34.2038 ms
+
+2022-06-10T14:00:47.8907222+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/206848 responded 304 in 36.7961 ms
+
+2022-06-10T14:00:47.8926671+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/16630630 responded 304 in 524.4193 ms
+
+2022-06-10T14:00:48.0452081+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/for_you_feed responded 200 in 1314.9841 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: The read operation failed, see inner exception.
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'SslStream'.
+
+
+2022-06-10T14:00:48.2219759+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/1429315 responded 304 in 336.6677 ms
+
+2022-06-10T14:00:48.2767190+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msgapi.teams.live.com:443->[51.141.10.83]
+
+2022-06-10T14:00:48.5863123+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 555.9798 ms
+
+2022-06-10T14:00:48.6490918+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/hangjinlei/hovercard responded 200 in 375.4846 ms
+
+2022-06-10T14:00:48.6925926+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 35.0652 ms
+
+2022-06-10T14:00:48.7034197+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars2.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-06-10T14:00:49.1583641+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.246.42, 13.107.213.42]
+
+2022-06-10T14:00:49.6442766+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+teams.live.com:443->[52.113.194.132]
+
+2022-06-10T14:00:49.6452067+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.108.154, 185.199.111.154]
+
+2022-06-10T14:00:50.2922122+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+outlook.live.com:443->[52.98.207.162, 40.100.174.210, 52.98.145.114]
+
+2022-06-10T14:00:50.9470294+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[20.223.237.241]
+
+2022-06-10T14:00:52.3881665+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+marketplace-screenshots.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-06-10T14:00:52.8073324+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+camo.githubusercontent.com:443->[185.199.111.133, 185.199.110.133, 185.199.108.133]
+
+2022-06-10T14:00:53.2956419+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+vsls-prod-ins-asse-private-relay.servicebus.windows.net:443->[52.148.90.111]
+
+2022-06-10T14:00:53.4929292+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21]
+
+2022-06-10T14:00:54.1537474+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.159.2, 20.190.159.64, 40.126.31.71]
+
+2022-06-10T14:01:00.3625495+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/run/hovercard responded 200 in 333.0903 ms
+
+2022-06-10T14:01:01.4131027+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercard responded 200 in 330.8849 ms
+
+2022-06-10T14:01:02.0523753+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1174.8334 ms
+
+2022-06-10T14:01:02.6205058+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 684.9488 ms
+
+2022-06-10T14:01:03.5934578+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 562.825 ms
+
+2022-06-10T14:01:03.8466741+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world responded 200 in 807.7719 ms
+
+2022-06-10T14:01:03.9137451+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 17805.5068 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:01:04.0129441+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-77839b-d5bf9886f42c.js responded 200 in 153.5374 ms
+
+2022-06-10T14:01:04.0294947+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/optimizely-86cd88736a15.js responded 200 in 163.8915 ms
+
+2022-06-10T14:01:04.0380258+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/app_assets_modules_github_fetch_ts-app_assets_modules_github_input-demux_ts-app_assets_module-e5b55c-74069b08c50b.js responded 200 in 146.2474 ms
+
+2022-06-10T14:01:04.0510211+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 137.775 ms
+
+2022-06-10T14:01:04.0510051+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/repositories-b36c8a7a23a0.js responded 200 in 158.7209 ms
+
+2022-06-10T14:01:04.3310681+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 357.8166 ms
+
+2022-06-10T14:01:04.3638128+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/main responded 200 in 338.3105 ms
+
+2022-06-10T14:01:04.4073507+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/296206226158fa48148a023c6299d56d04d44882 responded 304 in 385.7245 ms
+
+2022-06-10T14:01:04.4257103+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 402.3089 ms
+
+2022-06-10T14:01:04.4625455+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 441.8263 ms
+
+2022-06-10T14:01:04.5124856+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 485.6757 ms
+
+2022-06-10T14:01:04.7431974+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/main responded 304 in 712.1905 ms
+
+2022-06-10T14:01:04.7561838+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree-commit/296206226158fa48148a023c6299d56d04d44882 responded 304 in 726.5954 ms
+
+2022-06-10T14:01:04.7594722+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 627.0336 ms
+
+2022-06-10T14:01:04.7772293+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 744.7754 ms
+
+2022-06-10T14:01:04.8341357+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 800.6589 ms
+
+2022-06-10T14:01:04.8481754+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/used_by_list responded 304 in 812.5415 ms
+
+2022-06-10T14:01:04.9121595+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 143.553 ms
+
+2022-06-10T14:01:05.1042199+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/296206226158fa48148a023c6299d56d04d44882/rollup responded 200 in 334.8019 ms
+
+2022-06-10T14:01:05.1489447+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 494.3748 ms
+
+2022-06-10T14:01:05.2438397+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1126.9326 ms
+
+2022-06-10T14:01:05.8118852+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 495.6548 ms
+
+2022-06-10T14:01:05.9228652+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 554.6756 ms
+
+2022-06-10T14:01:06.5807088+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+g.live.com->127.0.0.1
+
+2022-06-10T14:01:07.1122057+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree/master responded 200 in 696.9085 ms
+
+2022-06-10T14:01:07.4958505+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 323.2249 ms
+
+2022-06-10T14:01:07.5158392+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 324.5084 ms
+
+2022-06-10T14:01:07.5330030+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree-commit/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 353.4482 ms
+
+2022-06-10T14:01:07.5330031+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/master responded 200 in 352.6252 ms
+
+2022-06-10T14:01:07.5458539+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 356.238 ms
+
+2022-06-10T14:01:07.5686750+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/used_by_list responded 304 in 378.8178 ms
+
+2022-06-10T14:01:07.5767631+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/master responded 304 in 393.8229 ms
+
+2022-06-10T14:01:07.5862296+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 410.5031 ms
+
+2022-06-10T14:01:07.5995519+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 452.2064 ms
+
+2022-06-10T14:01:07.6549684+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 478.0971 ms
+
+2022-06-10T14:01:07.7360891+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 554.4238 ms
+
+2022-06-10T14:01:07.8899051+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/38e1101b7876050ba82061478684e77265243bc0/rollup responded 200 in 344.2933 ms
+
+2022-06-10T14:01:08.6309173+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://g.live.com/odclientsettings/Prod responded 302 in 920.3892 ms
+
+2022-06-10T14:01:11.7875823+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 563.5906 ms
+
+2022-06-10T14:01:52.5642170+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+fonts.gstatic.com->127.0.0.1
+
+2022-06-10T14:01:52.5658446+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+fonts.googleapis.com->127.0.0.1
+
+2022-06-10T14:01:52.5676808+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+fonts.gstatic.com->127.0.0.1
+
+2022-06-10T14:01:52.5716478+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+fonts.googleapis.com->127.0.0.1
+
+2022-06-10T14:02:17.9772798+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[140.82.121.4, 140.82.121.3]
+
+2022-06-10T14:02:21.2019244+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+presence.teams.live.com:443->[52.114.32.211, 40.68.77.210]
+
+2022-06-10T14:02:41.3111256+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.12.20, 52.109.88.34]
+
+2022-06-10T14:02:43.7707506+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+update.code.visualstudio.com:443->[20.43.132.130, 51.144.164.215]
+
+2022-06-10T14:02:44.6647886+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[13.236.14.80, 140.82.121.5]
+
+2022-06-10T14:02:46.5842462+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.113.26]
+
+2022-06-10T14:02:46.8521429+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+vscodeexperiments.azureedge.net:443->[117.18.232.200, 152.199.19.161]
+
+2022-06-10T14:02:47.1300209+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.106, 13.69.106.208]
+
+2022-06-10T14:02:57.4782694+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.246.31, 13.107.213.31, 13.107.246.42]
+
+2022-06-10T14:02:58.6979964+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.141.38, 40.126.13.9, 20.190.141.34]
+
+2022-06-10T14:03:45.9843213+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.21, 52.109.12.20, 52.109.88.34]
+
+2022-06-10T14:04:00.1054022+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 200 in 923.0555 ms
+
+2022-06-10T14:04:12.5355739+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/hovercard responded 304 in 368.4599 ms
+
+2022-06-10T14:04:13.1025408+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 530.8865 ms
+
+2022-06-10T14:04:13.6631413+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 189627.5793 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:04:14.0479367+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree/master responded 200 in 1203.2281 ms
+
+2022-06-10T14:04:14.2110201+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 145.3927 ms
+
+2022-06-10T14:04:14.4174493+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 321.4759 ms
+
+2022-06-10T14:04:14.8909869+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 714.5916 ms
+
+2022-06-10T14:04:15.1149376+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 935.7338 ms
+
+2022-06-10T14:04:15.1159231+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/master responded 200 in 932.7547 ms
+
+2022-06-10T14:04:15.1358798+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/38e1101b7876050ba82061478684e77265243bc0/rollup responded 200 in 949.771 ms
+
+2022-06-10T14:04:15.1419473+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 964.8644 ms
+
+2022-06-10T14:04:15.2170237+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 1032.4287 ms
+
+2022-06-10T14:04:15.2233646+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 986.7218 ms
+
+2022-06-10T14:04:15.2487727+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 1059.3956 ms
+
+2022-06-10T14:04:15.2769328+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 1088.617 ms
+
+2022-06-10T14:04:15.2788967+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/used_by_list responded 304 in 1088.6502 ms
+
+2022-06-10T14:04:15.3086556+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/master responded 304 in 1121.2294 ms
+
+2022-06-10T14:04:15.7128272+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 1460.9643 ms
+
+2022-06-10T14:04:18.7785038+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 609.8848 ms
+
+2022-06-10T14:04:21.0006780+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 603.979 ms
+
+2022-06-10T14:04:23.1322794+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/blob/master/git_Learning.md responded 200 in 788.705 ms
+
+2022-06-10T14:04:23.1978425+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f314c3-d883b80c32ac.js responded 200 in 37.657 ms
+
+2022-06-10T14:04:23.2445795+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/diffs-5ac3ce1a7916.js responded 200 in 83.3709 ms
+
+2022-06-10T14:04:23.5478138+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 356.4069 ms
+
+2022-06-10T14:04:23.5715708+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 396.1893 ms
+
+2022-06-10T14:04:23.5915179+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/contributors/master/git_Learning.md responded 200 in 401.303 ms
+
+2022-06-10T14:04:23.8037439+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 608.9384 ms
+
+2022-06-10T14:04:23.9854123+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/38e1101b7876050ba82061478684e77265243bc0/rollup responded 200 in 384.3564 ms
+
+2022-06-10T14:04:29.0712608+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/hovercard responded 200 in 376.6648 ms
+
+2022-06-10T14:04:29.9501109+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 372.7568 ms
+
+2022-06-10T14:04:30.7332073+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/hovercard responded 304 in 389.7183 ms
+
+2022-06-10T14:04:31.3639117+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 753.567 ms
+
+2022-06-10T14:04:31.6931224+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/branches responded 200 in 479.2206 ms
+
+2022-06-10T14:04:32.1194104+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 395.1645 ms
+
+2022-06-10T14:04:32.3612668+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 607.6849 ms
+
+2022-06-10T14:04:32.3704812+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world/ref-ahead-behind responded 200 in 609.0517 ms
+
+2022-06-10T14:04:38.0369339+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree/master responded 200 in 693.3752 ms
+
+2022-06-10T14:04:38.4341091+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 325.4686 ms
+
+2022-06-10T14:04:38.4413695+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree-commit/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 334.3987 ms
+
+2022-06-10T14:04:38.4662233+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 364.287 ms
+
+2022-06-10T14:04:38.4681968+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/master responded 200 in 363.8063 ms
+
+2022-06-10T14:04:38.4701892+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 362.5307 ms
+
+2022-06-10T14:04:38.4718824+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 395.6451 ms
+
+2022-06-10T14:04:38.5522046+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 447.4256 ms
+
+2022-06-10T14:04:38.5589472+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/38e1101b7876050ba82061478684e77265243bc0 responded 304 in 458.7197 ms
+
+2022-06-10T14:04:38.7122804+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 607.1044 ms
+
+2022-06-10T14:04:38.7976980+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/38e1101b7876050ba82061478684e77265243bc0/rollup responded 200 in 343.3934 ms
+
+2022-06-10T14:04:39.6758916+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 608.3287 ms
+
+2022-06-10T14:04:42.6678651+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 604.4916 ms
+
+2022-06-10T14:04:46.5742133+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 13.236.14.80, 140.82.121.5]
+
+2022-06-10T14:04:47.7470634+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.25, 140.82.113.26]
+
+2022-06-10T14:04:48.3835045+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+vscodeexperiments.azureedge.net:443->[117.18.232.200, 72.21.81.200, 152.199.19.161]
+
+2022-06-10T14:04:49.0376392+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.106, 13.69.106.208, 13.69.106.217]
+
+2022-06-10T14:04:54.8282521+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+outlook.live.com:443->[40.97.120.210, 40.97.199.114, 52.96.22.2]
+
+2022-06-10T14:04:57.1529131+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21, 140.82.114.21]
+
+2022-06-10T14:04:57.8831475+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msgapi.teams.live.com:443->[51.141.10.83, 20.86.154.195]
+
+2022-06-10T14:04:59.9650714+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.57, 13.107.246.31, 13.107.213.31]
+
+2022-06-10T14:05:24.3450628+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+presence.teams.live.com:443->[52.114.32.211, 40.68.77.210, 52.169.117.24]
+
+2022-06-10T14:05:30.7634257+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:05:31.2059809+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 401 in 301.9673 ms
+
+2022-06-10T14:05:31.5504409+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 200 in 343.5895 ms
+
+2022-06-10T14:05:32.2986052+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world.git/git-receive-pack responded 200 in 621.2145 ms
+
+2022-06-10T14:05:33.1194358+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 348.7935 ms
+
+2022-06-10T14:05:38.2293901+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.19, 52.109.8.21, 52.109.12.20]
+
+2022-06-10T14:05:40.2703001+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+marketplace-screenshots.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.110.133]
+
+2022-06-10T14:05:40.2711474+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+camo.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.110.133]
+
+2022-06-10T14:05:40.2719664+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.110.133]
+
+2022-06-10T14:05:40.2727725+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.110.133]
+
+2022-06-10T14:05:40.2736077+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars2.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.110.133]
+
+2022-06-10T14:05:44.3065589+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+presence.teams.live.com:443->[52.114.32.211, 52.169.117.24, 40.68.77.210]
+
+2022-06-10T14:05:46.0080553+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.25, 140.82.113.26, 140.82.113.25]
+
+2022-06-10T14:05:46.2268400+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+spotlights-feed.github.com:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-06-10T14:05:46.2278161+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+events-feed.github.com:443->[185.199.111.153, 185.199.108.153, 185.199.109.153]
+
+2022-06-10T14:05:47.5293412+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+online.visualstudio.com:443->[23.100.27.125, 40.68.78.177]
+
+2022-06-10T14:05:47.7718956+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.106, 13.69.106.217, 13.69.106.208]
+
+2022-06-10T14:05:47.8082347+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+docs.github.com:443->[185.199.108.154, 185.199.111.154, 185.199.109.154]
+
+2022-06-10T14:05:47.8092249+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.108.154, 185.199.111.154, 185.199.109.154]
+
+2022-06-10T14:05:48.5446304+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:05:48.5458997+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:05:48.5481739+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:05:49.9381902+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:05:49.9394626+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 95802.6085 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:05:49.9411820+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:05:49.9520487+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:05:49.9533653+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:05:49.9546977+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:05:49.9586357+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:05:50.3206597+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree/master responded 200 in 1777.4658 ms
+
+2022-06-10T14:05:50.4795954+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:05:50.4820981+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:05:50.4935758+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 154.252 ms
+
+2022-06-10T14:05:50.4956847+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 141.3987 ms
+
+2022-06-10T14:05:50.7058982+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 323.604 ms
+
+2022-06-10T14:05:51.1212354+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 666.2682 ms
+
+2022-06-10T14:05:51.1850848+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 645.4643 ms
+
+2022-06-10T14:05:51.3915910+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/master responded 200 in 932.7185 ms
+
+2022-06-10T14:05:51.4121344+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree-commit/1e77b64de53737cb5afe5b1b848e67efb3c4071e responded 200 in 954.5115 ms
+
+2022-06-10T14:05:51.4350282+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 971.5876 ms
+
+2022-06-10T14:05:51.4375948+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/master responded 200 in 974.4649 ms
+
+2022-06-10T14:05:51.4565279+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/1e77b64de53737cb5afe5b1b848e67efb3c4071e responded 200 in 1001.3859 ms
+
+2022-06-10T14:05:51.4649119+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 1000.2825 ms
+
+2022-06-10T14:05:51.4680711+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 1011.0402 ms
+
+2022-06-10T14:05:51.5152225+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 1056.2905 ms
+
+2022-06-10T14:05:51.5361306+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/used_by_list responded 304 in 1059.2389 ms
+
+2022-06-10T14:05:51.6553383+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1148.3968 ms
+
+2022-06-10T14:05:51.7705921+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/1e77b64de53737cb5afe5b1b848e67efb3c4071e/rollup responded 200 in 353.126 ms
+
+2022-06-10T14:05:54.1066406+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.21]
+
+2022-06-10T14:06:02.0456278+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 571.3147 ms
+
+2022-06-10T14:06:02.0865119+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 589.4467 ms
+
+2022-06-10T14:06:02.2479725+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 11764.8399 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:06:02.6042718+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 392.6913 ms
+
+2022-06-10T14:06:02.6178167+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/new/master responded 200 in 1138.345 ms
+
+2022-06-10T14:06:03.0006383+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 335.6446 ms
+
+2022-06-10T14:06:03.1142041+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 486.2513 ms
+
+2022-06-10T14:06:03.1845570+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 386.2244 ms
+
+2022-06-10T14:06:03.3757349+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.246.39, 13.107.213.57, 13.107.213.39]
+
+2022-06-10T14:06:03.5778964+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 450.632 ms
+
+2022-06-10T14:06:04.1235444+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1004.8902 ms
+
+2022-06-10T14:06:04.4399340+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 386.6176 ms
+
+2022-06-10T14:06:04.4529452+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 383.5436 ms
+
+2022-06-10T14:06:11.2550170+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world/create/master responded 302 in 785.0641 ms
+
+2022-06-10T14:06:12.0401460+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 9207.4861 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:06:12.3946194+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 377.9165 ms
+
+2022-06-10T14:06:12.4688029+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree/master responded 200 in 1210.1129 ms
+
+2022-06-10T14:06:12.6305288+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 141.8792 ms
+
+2022-06-10T14:06:12.8903814+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 355.5507 ms
+
+2022-06-10T14:06:12.9544061+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/master responded 200 in 328.8493 ms
+
+2022-06-10T14:06:12.9672264+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 347.0154 ms
+
+2022-06-10T14:06:12.9802164+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 352.5058 ms
+
+2022-06-10T14:06:12.9913820+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/tree-commit/5e63f5bf14a84657d2eab60230ba7109cc8d0c15 responded 200 in 364.718 ms
+
+2022-06-10T14:06:13.0122330+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/5e63f5bf14a84657d2eab60230ba7109cc8d0c15 responded 200 in 391.3981 ms
+
+2022-06-10T14:06:13.0252537+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 399.9081 ms
+
+2022-06-10T14:06:13.0277059+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 32.3416 ms
+
+2022-06-10T14:06:13.0282873+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/master responded 200 in 400.7113 ms
+
+2022-06-10T14:06:13.0458965+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 402.4629 ms
+
+2022-06-10T14:06:13.0707600+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 444.2936 ms
+
+2022-06-10T14:06:13.1028627+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 438.9334 ms
+
+2022-06-10T14:06:13.2578108+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 630.1405 ms
+
+2022-06-10T14:06:13.3468235+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/5e63f5bf14a84657d2eab60230ba7109cc8d0c15/rollup responded 200 in 348.3545 ms
+
+2022-06-10T14:06:15.3274205+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 381.504 ms
+
+2022-06-10T14:06:17.3763646+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+raw.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:06:18.5070990+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md responded 200 in 176.9865 ms
+
+2022-06-10T14:06:18.5421357+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md.minisig responded 200 in 33.6576 ms
+
+2022-06-10T14:06:24.2448284+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 401 in 298.4169 ms
+
+2022-06-10T14:06:24.5793381+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 200 in 333.6038 ms
+
+2022-06-10T14:06:47.0835979+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 13.236.14.80]
+
+2022-06-10T14:06:49.5341356+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.107, 13.70.73.106, 13.69.106.217]
+
+2022-06-10T14:06:54.1970270+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.19, 52.109.8.21, 52.109.12.19]
+
+2022-06-10T14:06:58.3868860+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.113.22, 140.82.113.21]
+
+2022-06-10T14:07:03.8697529+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.67, 13.107.246.39, 13.107.213.57]
+
+2022-06-10T14:07:13.2619179+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.129, 40.126.35.151, 20.190.163.20]
+
+2022-06-10T14:07:16.0810371+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world.git/info/refs responded 200 in 308.9965 ms
+
+2022-06-10T14:07:16.6643032+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world.git/git-upload-pack responded 200 in 488.0728 ms
+
+2022-06-10T14:07:26.0195152+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+presence.teams.live.com:443->[13.76.45.26, 52.114.32.211, 52.169.117.24]
+
+2022-06-10T14:07:42.3761063+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.19, 52.109.8.21, 52.109.12.20]
+
+2022-06-10T14:07:47.3059210+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.112.25, 140.82.113.25]
+
+2022-06-10T14:07:50.6717699+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.107, 13.70.73.106, 52.236.186.217]
+
+2022-06-10T14:08:21.3966911+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[13.236.229.21, 140.82.121.4, 140.82.121.3]
+
+2022-06-10T14:08:46.8927360+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.21, 52.109.8.19, 52.109.12.20]
+
+2022-06-10T14:08:59.5935720+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.21, 140.82.113.22]
+
+2022-06-10T14:09:48.1804516+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.25, 140.82.113.26, 140.82.113.25]
+
+2022-06-10T14:09:55.1068848+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+outlook.live.com:443->[52.96.22.2, 40.97.199.114, 40.97.120.210]
+
+2022-06-10T14:10:05.7950140+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msgapi.teams.live.com:443->[13.76.158.225, 51.141.10.83, 20.86.154.195]
+
+2022-06-10T14:10:06.0241216+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.67, 13.107.246.39, 13.107.213.39]
+
+2022-06-10T14:10:41.0698803+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+marketplace-screenshots.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:10:41.0709198+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+camo.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:10:41.0718989+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:10:41.0728062+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:10:41.0737626+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars2.githubusercontent.com:443->[185.199.110.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:10:46.7833598+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.25, 140.82.112.25, 140.82.113.26]
+
+2022-06-10T14:10:47.6057216+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+spotlights-feed.github.com:443->[185.199.108.153, 185.199.110.153, 185.199.111.153]
+
+2022-06-10T14:10:47.6065588+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+events-feed.github.com:443->[185.199.108.153, 185.199.110.153, 185.199.111.153]
+
+2022-06-10T14:10:54.4825127+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[13.236.229.21, 140.82.121.3, 140.82.121.4]
+
+2022-06-10T14:10:54.9136949+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21, 140.82.114.21, 140.82.112.21]
+
+2022-06-10T14:10:54.9494757+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+docs.github.com:443->[185.199.108.154, 185.199.111.154, 185.199.110.154]
+
+2022-06-10T14:10:54.9503565+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.108.154, 185.199.111.154, 185.199.110.154]
+
+2022-06-10T14:11:03.9195394+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.67, 13.107.213.39, 13.107.213.57]
+
+2022-06-10T14:11:06.3574514+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msgapi.teams.live.com:443->[13.76.158.225, 20.89.149.168, 51.141.10.83]
+
+2022-06-10T14:11:50.9217114+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.106, 13.70.73.107, 52.236.186.217]
+
+2022-06-10T14:11:59.0663029+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.21, 140.82.113.22, 140.82.114.21]
+
+2022-06-10T14:12:04.0953844+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.67, 13.107.213.39, 13.107.246.67]
+
+2022-06-10T14:12:06.4151359+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+g.live.com:443->[52.231.199.126, 20.223.237.241]
+
+2022-06-10T14:12:13.3968428+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.35.128, 40.126.35.144, 40.126.35.80]
+
+2022-06-10T14:12:16.4223477+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[13.236.229.21, 140.82.121.3]
+
+2022-06-10T14:12:45.8808993+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.112.25, 140.82.113.26, 140.82.114.25]
+
+2022-06-10T14:12:48.3047514+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.112.25, 140.82.114.25]
+
+2022-06-10T14:12:53.2533448+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[13.70.73.106, 13.70.73.107, 13.69.106.217]
+
+2022-06-10T14:12:56.3755644+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.113.25, 140.82.112.25]
+
+2022-06-10T14:12:57.0887988+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[40.79.170.242, 13.70.73.106, 13.70.73.107]
+
+2022-06-10T14:13:47.9362031+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.19, 52.109.8.21, 52.109.12.20]
+
+2022-06-10T14:13:58.1994675+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+outlook.live.com:443->[40.99.10.98, 40.99.10.66, 52.98.33.226]
+
+2022-06-10T14:14:14.1174282+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:14:14.1196837+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.com->127.0.0.1
+
+2022-06-10T14:14:15.0796561+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/hovercard responded 304 in 944.2435 ms
+
+2022-06-10T14:14:15.0851657+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:14:15.0874675+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+avatars.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:14:15.2418383+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 144.4213 ms
+
+2022-06-10T14:14:15.4357850+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+collector.github.com->127.0.0.1
+
+2022-06-10T14:14:15.4375240+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+collector.github.com->127.0.0.1
+
+2022-06-10T14:14:15.4595393+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:14:15.4624692+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github.githubassets.com->127.0.0.1
+
+2022-06-10T14:14:16.1785728+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:14:16.1806486+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:14:16.1819392+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+github-cloud.s3.amazonaws.com->127.0.0.1
+
+2022-06-10T14:14:16.1830777+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 483650.4655 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:16.1841472+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+user-images.githubusercontent.com->127.0.0.1
+
+2022-06-10T14:14:16.3165566+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 200 in 857.7932 ms
+
+2022-06-10T14:14:16.3816912+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 36.042 ms
+
+2022-06-10T14:14:16.4236195+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/60440484 responded 304 in 71.7169 ms
+
+2022-06-10T14:14:16.4606714+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/t/3627587 responded 304 in 98.8621 ms
+
+2022-06-10T14:14:16.4966562+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/60440484 responded 304 in 108.16 ms
+
+2022-06-10T14:14:16.5368172+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:14:16.5429118+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+alive.github.com->127.0.0.1
+
+2022-06-10T14:14:16.5451419+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+api.github.com->127.0.0.1
+
+2022-06-10T14:14:16.5471193+08:00 [INF]
+FastGithub.PacketIntercept.Dns.DnsInterceptor
+api.github.com->127.0.0.1
+
+2022-06-10T14:14:16.5853927+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 1127.9393 ms
+
+2022-06-10T14:14:16.8434883+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 407.7556 ms
+
+2022-06-10T14:14:17.0364750+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 506.7281 ms
+
+2022-06-10T14:14:17.2106805+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 637.4501 ms
+
+2022-06-10T14:14:17.2654185+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 765.2728 ms
+
+2022-06-10T14:14:17.3123786+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 36.3039 ms
+
+2022-06-10T14:14:17.4526870+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 304 in 949.0115 ms
+
+2022-06-10T14:14:17.4790844+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 977.9352 ms
+
+2022-06-10T14:14:17.5129500+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/changelog responded 304 in 999.335 ms
+
+2022-06-10T14:14:17.6265106+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard-feed responded 200 in 1118.3873 ms
+
+2022-06-10T14:14:17.7002865+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 35.4498 ms
+
+2022-06-10T14:14:17.7164071+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 36.743 ms
+
+2022-06-10T14:14:17.7224468+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/11206497 responded 304 in 38.9454 ms
+
+2022-06-10T14:14:17.8679929+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/run/hovercard responded 304 in 412.6697 ms
+
+2022-06-10T14:14:17.9366972+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 454.1287 ms
+
+2022-06-10T14:14:18.3880262+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/for_you_feed responded 200 in 1881.6579 ms
+
+2022-06-10T14:14:18.4700966+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/10503161 responded 304 in 35.3661 ms
+
+2022-06-10T14:14:18.4710891+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/20365169 responded 304 in 40.1655 ms
+
+2022-06-10T14:14:18.4772464+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/6755973 responded 304 in 37.8265 ms
+
+2022-06-10T14:14:18.5061780+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/63639500 responded 304 in 61.0673 ms
+
+2022-06-10T14:14:18.5091722+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/2883231 responded 304 in 49.3511 ms
+
+2022-06-10T14:14:18.5121058+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/42528522 responded 304 in 47.4707 ms
+
+2022-06-10T14:14:18.5440527+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/41346473 responded 304 in 75.2461 ms
+
+2022-06-10T14:14:18.5450361+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/17216317 responded 304 in 71.3134 ms
+
+2022-06-10T14:14:18.5480899+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/16630630 responded 304 in 70.1991 ms
+
+2022-06-10T14:14:18.5800384+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/25875263 responded 304 in 87.8225 ms
+
+2022-06-10T14:14:18.5809958+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/4027957 responded 304 in 59.3184 ms
+
+2022-06-10T14:14:18.5830494+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/50206778 responded 304 in 41.79 ms
+
+2022-06-10T14:14:18.5961108+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/19404084 responded 304 in 51.3254 ms
+
+2022-06-10T14:14:18.6021200+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/57373 responded 304 in 64.5364 ms
+
+2022-06-10T14:14:18.6061983+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/1429315 responded 304 in 57.0781 ms
+
+2022-06-10T14:14:18.6112649+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/13383310 responded 304 in 41.1765 ms
+
+2022-06-10T14:14:18.6163044+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/8373027 responded 304 in 42.1305 ms
+
+2022-06-10T14:14:18.6340419+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/206848 responded 304 in 34.8018 ms
+
+2022-06-10T14:14:18.6400885+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/1429315 responded 304 in 36.8849 ms
+
+2022-06-10T14:14:19.8001313+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 408.3144 ms
+
+2022-06-10T14:14:20.8714009+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercard responded 200 in 415.9505 ms
+
+2022-06-10T14:14:22.1148378+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 421.185 ms
+
+2022-06-10T14:14:23.1354725+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 396.0235 ms
+
+2022-06-10T14:14:23.3415486+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 575.8949 ms
+
+2022-06-10T14:14:23.6668346+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world responded 200 in 919.3758 ms
+
+2022-06-10T14:14:23.7182018+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 7160.4595 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:23.7433676+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://avatars.githubusercontent.com/u/48872198 responded 304 in 36.718 ms
+
+2022-06-10T14:14:23.8232222+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 131.9578 ms
+
+2022-06-10T14:14:24.0474005+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 376.3606 ms
+
+2022-06-10T14:14:24.1681617+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 402.1755 ms
+
+2022-06-10T14:14:24.2904590+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 355.9056 ms
+
+2022-06-10T14:14:24.3041435+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 403.8896 ms
+
+2022-06-10T14:14:24.3333440+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/show_partial responded 200 in 447.1971 ms
+
+2022-06-10T14:14:24.3395841+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/commit/296206226158fa48148a023c6299d56d04d44882/rollup responded 200 in 449.2226 ms
+
+2022-06-10T14:14:24.3411198+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/security/overall-count responded 200 in 460.8099 ms
+
+2022-06-10T14:14:24.3544301+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/overview_actions/main responded 200 in 467.2691 ms
+
+2022-06-10T14:14:24.3680776+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/spoofed_commit_check/296206226158fa48148a023c6299d56d04d44882 responded 304 in 485.8526 ms
+
+2022-06-10T14:14:24.3908536+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 502.7278 ms
+
+2022-06-10T14:14:24.6386207+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/file-list/main responded 304 in 747.2783 ms
+
+2022-06-10T14:14:24.7782595+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/used_by_list responded 304 in 883.5519 ms
+
+2022-06-10T14:14:24.7814216+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/hovercards/citation/sidebar_partial responded 204 in 887.4129 ms
+
+2022-06-10T14:14:24.7852417+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 385.2862 ms
+
+2022-06-10T14:14:24.7974364+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/topic_suggestions responded 200 in 905.0369 ms
+
+2022-06-10T14:14:25.4352181+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 385.1572 ms
+
+2022-06-10T14:14:25.8840844+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/hello-world/settings responded 200 in 835.4628 ms
+
+2022-06-10T14:14:26.3280393+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 403.2085 ms
+
+2022-06-10T14:14:26.3369951+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 380.4911 ms
+
+2022-06-10T14:14:36.9831327+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world/settings/delete responded 200 in 671.7737 ms
+
+2022-06-10T14:14:37.0230830+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 13096.0468 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:37.3740053+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 383.1286 ms
+
+2022-06-10T14:14:37.5168092+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 404.2517 ms
+
+2022-06-10T14:14:37.5329736+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 408.9842 ms
+
+2022-06-10T14:14:39.2867244+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 371.889 ms
+
+2022-06-10T14:14:39.3096660+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 390.1111 ms
+
+2022-06-10T14:14:43.1362747+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+vscodeexperiments.azureedge.net:443->[72.21.81.200, 152.199.19.161]
+
+2022-06-10T14:14:43.1373083+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[20.205.243.168, 192.30.255.116, 140.82.121.5]
+
+2022-06-10T14:14:43.1381971+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[40.79.170.242, 13.70.73.107, 13.69.106.217]
+
+2022-06-10T14:14:45.7738030+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world/settings/delete responded 302 in 917.1448 ms
+
+2022-06-10T14:14:46.1398844+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 502 in 361.7092 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:46.8511775+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 9741.4729 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:47.2313395+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 386.1158 ms
+
+2022-06-10T14:14:47.4250288+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/outputlimitexceed/hello-world/settings/delete responded 404 in 1281.2328 ms
+
+2022-06-10T14:14:47.9160320+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 404.157 ms
+
+2022-06-10T14:14:47.9198713+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 436.4607 ms
+
+2022-06-10T14:14:47.9222241+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 352.6243 ms
+
+2022-06-10T14:14:49.5449562+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 379.0742 ms
+
+2022-06-10T14:14:49.5628672+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 383.8001 ms
+
+2022-06-10T14:14:49.5727489+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 409.1093 ms
+
+2022-06-10T14:14:49.8600781+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/ responded 200 in 691.791 ms
+
+2022-06-10T14:14:49.8781896+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 2311.2893 ms
+System.OperationCanceledException: The operation was canceled.
+
+
+2022-06-10T14:14:50.2507559+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 383.4408 ms
+
+2022-06-10T14:14:50.3620998+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 348.6952 ms
+
+2022-06-10T14:14:50.3888242+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 448.8946 ms
+
+2022-06-10T14:14:50.3976950+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 402.687 ms
+
+2022-06-10T14:14:50.4030763+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 200 in 421.2854 ms
+
+2022-06-10T14:14:50.4219798+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/my_top_repositories responded 200 in 435.9623 ms
+
+2022-06-10T14:14:50.4263751+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 442.3458 ms
+
+2022-06-10T14:14:50.5006119+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard-feed responded 200 in 512.6437 ms
+
+2022-06-10T14:14:50.8199005+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/changelog responded 304 in 829.2895 ms
+
+2022-06-10T14:14:50.8799478+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/dashboard/recent-activity responded 304 in 446.1304 ms
+
+2022-06-10T14:14:51.3163843+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/for_you_feed responded 200 in 1327.2681 ms
+
+2022-06-10T14:14:52.4455751+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 377.1085 ms
+
+2022-06-10T14:14:52.4524323+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 385.4172 ms
+
+2022-06-10T14:14:52.6908803+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/new responded 200 in 618.1849 ms
+
+2022-06-10T14:14:52.7221803+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 2712.8267 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:14:52.7832142+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/vendors-node_modules_github_braintree-encryption_target_braintree-1_3_10_js-node_modules_gith-93a78d-5c18a039eb22.js responded 200 in 69.897 ms
+
+2022-06-10T14:14:52.8173728+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/assets/billing-222a129010a4.js responded 200 in 101.2563 ms
+
+2022-06-10T14:14:53.0764619+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 381.4175 ms
+
+2022-06-10T14:14:53.1981235+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 431.4352 ms
+
+2022-06-10T14:14:53.2922478+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 354.8513 ms
+
+2022-06-10T14:14:53.2940730+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 401.7667 ms
+
+2022-06-10T14:14:54.3950101+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 373.5669 ms
+
+2022-06-10T14:14:54.4290203+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 380.1009 ms
+
+2022-06-10T14:14:56.0875727+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/repositories/check-name responded 200 in 644.715 ms
+
+2022-06-10T14:14:56.9548802+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/repositories/check-name responded 200 in 656.8932 ms
+
+2022-06-10T14:14:57.6331860+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.113.25, 140.82.114.26]
+
+2022-06-10T14:14:57.7600470+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/repositories/check-name responded 200 in 654.8531 ms
+
+2022-06-10T14:14:59.7779497+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/repositories/check-name responded 200 in 645.3034 ms
+
+2022-06-10T14:15:06.6975111+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.67, 13.107.246.57, 13.107.213.39]
+
+2022-06-10T14:15:14.3262617+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.246.64, 13.107.213.67, 13.107.246.57]
+
+2022-06-10T14:15:24.8640540+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://github.com/repositories responded 302 in 1584.4555 ms
+
+2022-06-10T14:15:25.0113487+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[13.236.229.21, 192.30.255.112, 140.82.121.3]
+
+2022-06-10T14:15:25.7237590+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning responded 200 in 855.5441 ms
+
+2022-06-10T14:15:25.7496480+08:00 [WRN]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://alive.github.com/_sockets/u/48872198/ws responded 101 in 32818.2911 ms
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+System.IO.IOException: Unable to read data from the transport connection: 由于线程退出或应用程序请求，已中止 I/O 操作。.
+System.Net.Sockets.SocketException: 由于线程退出或应用程序请求，已中止 I/O 操作。
+
+
+2022-06-10T14:15:25.8119106+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.githubassets.com/images/modules/site/codespaces/dropdown-logo.png responded 304 in 32.5835 ms
+
+2022-06-10T14:15:26.1345252+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 387.2593 ms
+
+2022-06-10T14:15:26.2302549+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/users/outputlimitexceed/feature_preview/indicator_check responded 304 in 436.7043 ms
+
+2022-06-10T14:15:26.3086878+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 357.0886 ms
+
+2022-06-10T14:15:26.3368132+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/overview_actions/main responded 200 in 431.7687 ms
+
+2022-06-10T14:15:26.3372611+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://collector.github.com/github/collect responded 204 in 402.7573 ms
+
+2022-06-10T14:15:26.3464416+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/security/overall-count responded 200 in 445.0962 ms
+
+2022-06-10T14:15:26.3638426+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/show_partial responded 200 in 459.4923 ms
+
+2022-06-10T14:15:26.4645984+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/codespaces responded 200 in 558.4204 ms
+
+2022-06-10T14:15:26.5005990+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/spoofed_commit_check/a10008371b12b861d7dff07da88d66cfb731fef8 responded 200 in 598.3277 ms
+
+2022-06-10T14:15:26.7005226+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/tree-commit/a10008371b12b861d7dff07da88d66cfb731fef8 responded 200 in 791.812 ms
+
+2022-06-10T14:15:26.7656695+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/hovercards/citation/sidebar_partial responded 204 in 851.3811 ms
+
+2022-06-10T14:15:26.7868310+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/file-list/main responded 200 in 874.1571 ms
+
+2022-06-10T14:15:27.1691049+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+GET https://github.com/outputlimitexceed/git-learning/commit/a10008371b12b861d7dff07da88d66cfb731fef8/rollup responded 200 in 462.6731 ms
+
+2022-06-10T14:15:30.0320599+08:00 [INF]
+FastGithub.HttpServer.RequestLoggingMiddleware
+POST https://api.github.com/_private/browser/stats responded 200 in 374.5025 ms
+
+2022-06-10T14:15:36.3452816+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+nexusrules.officeapps.live.com:443->[52.109.8.19, 52.109.12.20, 52.109.12.19]
+
+2022-06-10T14:15:41.6266516+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+marketplace-screenshots.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:15:41.6275031+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+camo.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:15:41.6283448+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:15:41.6290656+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+raw.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:15:41.6298870+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars2.githubusercontent.com:443->[185.199.111.133, 185.199.108.133, 185.199.109.133]
+
+2022-06-10T14:15:47.6887256+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+spotlights-feed.github.com:443->[185.199.110.153, 185.199.108.153, 185.199.109.153]
+
+2022-06-10T14:15:47.6895965+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+events-feed.github.com:443->[185.199.110.153, 185.199.108.153, 185.199.109.153]
+
+2022-06-10T14:15:47.9102713+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.113.26, 140.82.114.26, 140.82.113.25]
+
+2022-06-10T14:15:54.8609892+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.25, 140.82.113.26, 140.82.114.26]
+
+2022-06-10T14:15:55.0899629+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+msgapi.teams.live.com:443->[13.76.158.225, 20.89.149.168, 23.100.61.221]
+
+2022-06-10T14:15:56.5486972+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+docs.github.com:443->[185.199.110.154, 185.199.109.154, 185.199.108.154]
+
+2022-06-10T14:15:56.5495868+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.110.154, 185.199.109.154, 185.199.108.154]
+
+2022-06-10T14:15:56.7880955+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+dc.services.visualstudio.com:443->[40.79.170.242, 13.70.73.107, 13.69.106.89]
+
+2022-06-10T14:15:56.8227065+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+edgeassetservice.azureedge.net:443->[13.107.213.42, 13.107.246.64, 13.107.213.67]
+
