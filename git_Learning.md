@@ -4,7 +4,7 @@
 
 [**git使用方法（远程关联仓库）**](https://blog.csdn.net/qq_45893260/article/details/118874601)
 
-[**git 获取token的办法**](https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+[**git 获取token的办法/有啥不会官方文档**](https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 [**git查看/删除远程仓库**](https://www.csdn.net/tags/MtTaQgwsNzMyODgtYmxvZwO0O0OO0O0O.html)
 
